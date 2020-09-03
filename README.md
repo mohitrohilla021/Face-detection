@@ -11,3 +11,4 @@ It is analogous to image detection in which the image of a person is matched bit
 
 Any facial feature changes in the database will invalidate the matching process.
 
+![](Face%20detection.gif)
